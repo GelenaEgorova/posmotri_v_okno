@@ -73,12 +73,12 @@ fieldset {
 
 .result__video-container::before {
   content: "";
-  position: absolute;
+  position: relative;
 }
 
 .content__list::before {
   content: "";
-  position: absolute;
+  position: relative;
 }
 
 .result__video {
