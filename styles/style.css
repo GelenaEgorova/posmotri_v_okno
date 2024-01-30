@@ -59,7 +59,6 @@ fieldset {
   flex-direction: row;
   align-items: flex-end;
   justify-content: center;
-  vertical-align: bottom;
   inline-size: 1140px;
   gap: 30px;
 }
